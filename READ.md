@@ -29,4 +29,9 @@ chmod | เปลี่ยน mod
 chown | เปลี่ยน owner
 touch |สร้างไฟล์
 
-#
+คำสั่ง
+-----------------------------
+คำสั่งUser| who whoami groups แสดงชื่อผู้ใช้
+--------|---------------------------
+คำสั่งEdit User|1.adduser (เพิ่มผู้ใช้) 2.deluser (ลบผู้ใช้)3.passwd () 4.usermod
+คำสั่งedit group|1.addgoup (เพิ่มกลุ่มผู้ใช้)2.delgroup(ลบ)
